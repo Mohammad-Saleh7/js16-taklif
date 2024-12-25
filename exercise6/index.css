@@ -29,13 +29,13 @@ body{
     margin-top: 20px;
 }
 .image img{
-    width: 800px;
-    height: 800px;
+    width: 700px;
+    height: 700px;
 }
-/* .buttons{
+ .buttons{
     display: flex;
     justify-content: space-around;
-} */
+} 
 button{
     width: 60px;
     height: 60px;
